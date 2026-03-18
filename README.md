@@ -1,6 +1,6 @@
 # Hi there 👋 I’m Aribim “Ari” Bristol
 
-🔭 I’m a Machine Learning Engineer & Data Scientist with 2+ years of industry experience.  
+🔭 I’m a Machine Learning Engineer & Data Scientist with 3+ years of industry experience.  
 📚 I recently completed my MSc in Environmental Data Science & Machine Learning at Imperial College London.  
 🌱 I build and deploy ML models with PyTorch, TensorFlow, and AWS across multiple industries.  
 👯 I’m open to collaborating on open‑source ML/Data Science projects. Check out my repos!  
